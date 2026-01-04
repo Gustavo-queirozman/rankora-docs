@@ -1,4 +1,4 @@
-# Rankora – WordPress AI SEO Plugin
+# Rankora – WordPress Plugin Generate Content + SEO 
 
 Rankora is an AI-powered content generator plugin for WordPress with built-in SEO optimization.
 
