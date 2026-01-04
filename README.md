@@ -3,7 +3,7 @@
 Rankora is an AI-powered content generator plugin for WordPress with built-in SEO optimization.
 
 ## Documentation
-[https://gustavo-queirozman.github.io/rankora-docs/]
+https://gustavo-queirozman.github.io/rankora-docs/
 
 ## Requirements
 - WordPress 6.0+
